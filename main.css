@@ -1,0 +1,29 @@
+.mySelect {
+float: left;
+display: flex;
+margin-top: 10px;
+width: 150px;
+}
+
+.totSamiyDiv {
+display: none;
+}
+
+.btnResult {
+display: none;
+margin-top: 10px;
+}
+
+.btnDel {
+margin-top: 10px;
+margin-left: 50px;
+}
+
+.numberOfLines {
+float: left; 
+}
+
+p {
+font-family: sans-serif;
+font-size: 15px;
+}
